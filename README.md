@@ -20,3 +20,8 @@ Esse projeto foi implementado utilizando o MVVM e clean architecture
 ## Frameworks
 
 - Navigation Component
+
+## Instalação
+
+Para instalar o apk, você pode baikar o apk  nesta [página](https://github.com/italo-guimaraes/Api_Github/releases/tag/v1).
+Depois é só abrir o arquivo no seu android e instalar o aplicativo.
